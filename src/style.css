@@ -1,0 +1,55 @@
+:root {
+  --bg: #f8fafc;
+  --primary: #645cff;
+  --accent: #a29dff;
+  --textLight: #ffffff;
+  --textDark: #0f172a;
+  --hover: #4741be;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Roboto", sans-serif;
+  background: var(--bg);
+  color: var(--textLight);
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+a,
+button {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  margin: auto;
+  width: 60vw;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 90vw;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .container {
+    width: 80vw;
+  }
+}
