@@ -1,8 +1,23 @@
-# React + Vite
+# React Mini Cart Project
+A simple responsive Mini-Cart project built using React JS & Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Website - https://theblaisecode.github.io/Shopping-Cart/
 
-Currently, two official plugins are available:
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔶 Result
+![usereducer](https://github.com/theblaisecode/Shopping-Cart/assets/89015653/0b543c92-6c12-49a6-9cb0-9668585e43cf)
+
+<br/>
+
+## 🔶 Tech Stack
+- React JS
+- Vite
+
+<br/>
+
+## 🔶 Authors
+- GitHub - [@theblaisecode](https://github.com/theblaisecode)
+- Twitter - [@theblaisecode](https://twitter.com/theblaisecode)
+- LinkedIn - [@theblaisecode](https://www.linkedin.com/in/theblaisecode)
+- Portfolio - [theblaisecode.netlify.app](https://theblaisecode.netlify.app/)
